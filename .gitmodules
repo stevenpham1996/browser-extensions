@@ -1,0 +1,6 @@
+[submodule "sci-search"]
+	path = sci-search
+	url = https://github.com/stevenpham1996/sci-search.git
+[submodule "comment-blocker"]
+	path = comment-blocker
+	url = https://github.com/stevenpham1996/comment-blocker.git
