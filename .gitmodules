@@ -4,3 +4,6 @@
 [submodule "comment-blocker"]
 	path = comment-blocker
 	url = https://github.com/stevenpham1996/comment-blocker.git
+[submodule "scisearch"]
+	path = scisearch
+	url = https://github.com/stevenpham1996/scisearch.git
